@@ -1,10 +1,11 @@
 # SD-JWT VC DM Credential Format
 
-SD-JWT VC DM is a data model that works with JWT, VCDM v2 and CBOR. With the
-recommended securing mechanisms, it forms a full-fledged credential format for
-verifiable credentials.
+SD-JWT VC DM is a data model that follows JWT conventions and supports selective
+disclosure, but is compatible with the W3C VCDM v2. With the recommended
+securing mechanisms, it forms a full-fledged credential format for verifiable
+credentials.
 
-This proposal was developed by Alen Horvat, Oliver Terbu, and Daniel Fett.
+This proposal was developed by Alen Horvat, Oliver Terbu, and Daniel Fett. This writeup was compiled by Daniel Fett.
 
 ## Problem Statement
 
