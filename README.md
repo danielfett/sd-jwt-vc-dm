@@ -188,7 +188,7 @@ scope of this document.
 
 The following shows the payload of a very simple PID credential.
 
-```json
+```yaml
 {
  "vct": "eudi:example:pid",
 
@@ -211,7 +211,7 @@ When the credential is issued with selective disclosure, some claims can be
 "packed" into an `_sd` structure as defined in
 [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/):
 
-```json
+```yaml
 {
  "vct": "eudi:example:pid",
  "_sd_alg": "sha-256",
@@ -244,7 +244,7 @@ The following shows a Portable Document A-1 example credential and associated me
 <details>
 <summary>Show credential</summary>
 
-```json
+```yaml
 {
   // type
   "vct": "empl:pda1",
@@ -290,7 +290,7 @@ The following shows a Portable Document A-1 example credential and associated me
 <details>
 <summary>Show metadata</summary>
 
-```json
+```yaml
 {
   "language": "en-gb",
   "namespace": "empl",
@@ -338,7 +338,7 @@ The following shows a European Learning Model example credential:
 <details>
 <summary>Show credential</summary>
 
-```json
+```yaml
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
@@ -574,7 +574,7 @@ The following shows a MyAcademicID example credential:
 <details>
 <summary>Show credential</summary>
 
-```json
+```yaml
 {
   "vct": "myAcademicId:id",
 
