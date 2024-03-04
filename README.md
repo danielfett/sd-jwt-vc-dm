@@ -628,7 +628,7 @@ The following formats can be used for securing the SD-JWT VC DM:
     * **The SD-JWT JSON-serialized format:*** JSON-serialized JWS with disclosures claim in the unprotected header
 * VC presentation
     * **The default format in SD-JWT:** Compact serialized JWS with the SD-JWT extension (~, disclosures, key-binding jwt)
-    * **The SD-JWT JSON-serialized format:*** JSON-serialized JWS with disclosures and key binding claims in the unprotected header
+    * **The SD-JWT JSON-serialized format:*** JSON-serialized JWS with disclosures and key binding in the unprotected header
 
 (* Note: The current JSON-serialized formats in the SD-JWT specification
 deviates from this, but [will be
