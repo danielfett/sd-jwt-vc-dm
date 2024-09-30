@@ -7,6 +7,9 @@ credentials.
 
 This proposal was developed by Alen Horvat, Oliver Terbu, and Daniel Fett. This writeup was compiled by Daniel Fett.
 
+> [!CAUTION]
+> **This proposal is not (and will not be) a separate specification.** Instead, SD-JWT VC DM is positioned as a roadmap for the future development of [SD-JWT VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) and potentially other specifications. Many of the features proposed here have already been incorporated into SD-JWT VC (see [Document History](https://drafts.oauth.net/oauth-sd-jwt-vc/draft-ietf-oauth-sd-jwt-vc.html#name-document-history)).
+
 ## Problem Statement
 
 While several credential formats exist for JSON-based credentials, the existing
