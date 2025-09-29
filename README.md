@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This is not the repository you're looking for.** Current development is happening in [SD-JWT VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/).
+
 # SD-JWT VC DM Credential Format
 
 SD-JWT VC DM is a data model that follows JWT conventions and supports selective
