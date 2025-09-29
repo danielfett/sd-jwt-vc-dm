@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **This is not the repository you're looking for.** Current development is happening in [SD-JWT VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/).
+> **This is not the repository you're looking for.** Current development is happening in [the Github repository for the IETF SD-JWT VC specification](https://github.com/oauth-wg/oauth-sd-jwt-vc).
 
 # SD-JWT VC DM Credential Format
 
